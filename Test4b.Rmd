@@ -6,10 +6,10 @@ output: html_document
 ---
 
 ```{r}
-x = 5
-y = 7
+x <-  5
+y  <-  7
 
-# error
+# error, can't work
 z <- 3x + 15y
 
 ```
