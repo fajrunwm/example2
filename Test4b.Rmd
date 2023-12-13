@@ -1,0 +1,15 @@
+---
+title: "Test4b"
+author: "Fajrun Wahidil Muharram"
+date: "2023-12-13"
+output: html_document
+---
+
+```{r}
+x = 5
+y = 7
+
+z <- 3x + 15y
+
+```
+
