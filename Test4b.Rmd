@@ -9,9 +9,6 @@ output: html_document
 x <-  5
 y  <-  7
 
-# error, can't work
-z <- 3x + 15y
-
 # add new equation
 z = 3x + 15y
 
