@@ -4,13 +4,18 @@ author: "Fajrun Wahidil Muharram"
 date: "2023-12-13"
 output: html_document
 ---
+```{r}
+library(sf)
+```
+
+
 
 ```{r}
 x <-  5
 y  <-  7
 
 # add new equation
-z = 3x + 15y
+
 
 ```
 
