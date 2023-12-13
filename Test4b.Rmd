@@ -11,6 +11,8 @@ y  <-  7
 
 # error, can't work
 z <- 3x + 15y
+
+# add new equation
 z = 3x + 15y
 
 ```
